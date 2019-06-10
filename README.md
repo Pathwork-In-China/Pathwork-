@@ -9,3 +9,7 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 目录
 
 1.生活之海 https://github.com/Pathwork-In-China/Pathwork-/issues/2#issue-454086269
+
+2.决定与考验 https://github.com/Pathwork-In-China/Pathwork-/issues/3#issue-454094871
+
+3.选择你的命运-改变的意愿 https://github.com/Pathwork-In-China/Pathwork-/issues/4#issue-454096749
