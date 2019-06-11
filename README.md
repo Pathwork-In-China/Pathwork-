@@ -15,3 +15,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 3.选择你的命运-改变的意愿 https://github.com/Pathwork-In-China/Pathwork-/issues/4#issue-454096749
 
 4.世界疲倦感 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/6#issue-454521784
+
+5.为自己而幸福还是为成为生命链条的一个环节而幸福 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/7#issue-454709438
