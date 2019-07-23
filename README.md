@@ -17,3 +17,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 4.世界疲倦感 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/6#issue-454521784
 
 5.为自己而幸福还是为成为生命链条的一个环节而幸福 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/7#issue-454709438
+
+6.人类在精神和物质宇宙中的角色 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/8
