@@ -23,3 +23,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 7.请求帮助和帮助他人 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/9
 
 8.媒介传导——怎样联系上帝的精神世界 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/10
+
+9.祈祷与冥想——主祷文 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/11
