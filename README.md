@@ -8,6 +8,8 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 
 目录
 
+0.前言-基本信息-中文版介绍-声明 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/1
+
 1.生活之海 https://github.com/Pathwork-In-China/Pathwork-/issues/2#issue-454086269
 
 2.决定与考验 https://github.com/Pathwork-In-China/Pathwork-/issues/3#issue-454094871
