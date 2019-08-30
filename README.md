@@ -31,3 +31,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 10. 男性与女性降世——它们的节奏与起因 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/12
 
 11. 自我认知——宏伟计划——精神世界 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/13
+
+12. 精神世界的秩序和多样性——再次降世的过程 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/14
