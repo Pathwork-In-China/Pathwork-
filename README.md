@@ -33,3 +33,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 11. 自我认知——宏伟计划——精神世界 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/13
 
 12. 精神世界的秩序和多样性——再次降世的过程 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/14
+
+13. 正确和错误类型的积极思考 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/15
