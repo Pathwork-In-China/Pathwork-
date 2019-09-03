@@ -28,12 +28,12 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 
 9.祈祷与冥想——主祷文 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/11
 
-10. 男性与女性降世——它们的节奏与起因 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/12
+10.男性与女性降世——它们的节奏与起因 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/12
 
-11. 自我认知——宏伟计划——精神世界 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/13
+11.自我认知——宏伟计划——精神世界 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/13
 
-12. 精神世界的秩序和多样性——再次降世的过程 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/14
+12.精神世界的秩序和多样性——再次降世的过程 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/14
 
-13. 正确和错误类型的积极思考 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/15
+13.正确和错误类型的积极思考 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/15
 
-14. 高级自我，低级自我，和面具自我 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/16
+14.高级自我，低级自我，和面具自我 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/16
