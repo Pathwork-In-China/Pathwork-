@@ -37,3 +37,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 13.正确和错误类型的积极思考 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/15
 
 14.高级自我，低级自我，和面具自我 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/16
+
+15.精神世界和物质世界之间和相互影响 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/17
