@@ -39,3 +39,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 14.高级自我，低级自我，和面具自我 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/16
 
 15.精神世界和物质世界之间的相互影响 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/17
+
+16.精神的滋养——意志力 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/18
