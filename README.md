@@ -43,3 +43,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 16.精神的滋养——意志力 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/18
 
 17.（上帝的）呼唤——每日回顾 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/19
+
+18.自由意志 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/20
