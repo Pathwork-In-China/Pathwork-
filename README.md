@@ -47,3 +47,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 18.自由意志 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/20
 
 19.耶稣基督 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/21
+
+20.上帝：（宇宙）造物 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/22
