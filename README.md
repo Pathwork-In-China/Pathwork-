@@ -49,3 +49,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 19.耶稣基督 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/21
 
 20.上帝：（宇宙）造物 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/22
+
+21.堕落 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/23
