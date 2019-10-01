@@ -53,3 +53,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 21.堕落 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/23
 
 22.拯救 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/24
+
+23.问与答 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/25
