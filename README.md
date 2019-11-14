@@ -61,3 +61,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 25.道路：起始步骤，准备工作和决定 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/27
 
 26.找到自己的缺点 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/28
+
+27.逃避在道路上也是可能的 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/29
