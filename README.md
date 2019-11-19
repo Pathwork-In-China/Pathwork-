@@ -63,3 +63,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 26.找到自己的缺点 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/28
 
 27.逃避在道路上也是可能的 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/29
+
+28.与上帝沟通——每日回顾 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/30
