@@ -69,3 +69,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 29.主动力与被动力——发现上帝的意愿 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/31
 
 30.任性，骄傲和恐惧 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/32
+
+31.羞愧感 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/33
