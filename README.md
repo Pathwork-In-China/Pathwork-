@@ -72,4 +72,4 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 
 31.羞愧感 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/33
 
-32.做决断 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/34
+32.做决定 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/34
