@@ -73,3 +73,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 31.羞愧感 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/33
 
 32.做决定 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/34
+
+33.自我专注——正确与错误的信念 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/35
