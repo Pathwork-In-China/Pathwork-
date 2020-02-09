@@ -77,3 +77,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 33.自我专注——正确与错误的信念 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/35
 
 34.再次降世的准备 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/36
+
+35.转向上帝 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/37
