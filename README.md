@@ -79,3 +79,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 34.再次降世的准备 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/36
 
 35.转向上帝 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/37
+
+36.祈祷 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/38
