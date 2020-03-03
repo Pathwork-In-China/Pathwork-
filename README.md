@@ -83,3 +83,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 36.祈祷 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/38
 
 37.正确与错误的接纳——谦逊中的尊严 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/39
+
+38.（人内心的）图像 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/40
