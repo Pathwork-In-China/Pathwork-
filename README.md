@@ -87,3 +87,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 38.（人内心的）图像 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/40
 
 39.图像搜寻 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/41
+
+40.更多关于图像搜寻的内容——总结 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/42
