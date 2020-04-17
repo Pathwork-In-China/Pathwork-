@@ -91,3 +91,5 @@ Pathwork® is a registered service mark of the Pathwork Foundation
 40.更多关于图像搜寻的内容——总结 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/42
 
 41.图像：他们造成的危害 https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/43
+
+204.這是條甚麼樣的道路?--By Pathwork In Taiwan https://github.com/Pathwork-In-China/Pathwork-Lectures/issues/44
